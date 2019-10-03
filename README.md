@@ -11,7 +11,7 @@ The garden acts as the vibrant center of the different surrounding buildings.
 ![](image_projet_RPBW_2.png?raw=true)
 ![](image_projet_RPBW_3.png?raw=true)
 
-Digital images of the project.
+_Digital images of the project_
  
  
  
@@ -32,7 +32,7 @@ He wants the schedule to be respected, followed the construction site. He manage
 
 ![](image_chantier.png?raw=true)
 
-Photography on the construction site.
+_Photography on the construction site_
 
 
 
@@ -43,4 +43,4 @@ In my opinion, the time line remains the most important point to manage. So "Tra
 
 
 ![](croquis.png?raw=true)
-The project here is mostly concrete.
+_The project here is mostly concrete_

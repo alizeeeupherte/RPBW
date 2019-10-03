@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+# RPBW
 
-You can use the [editor on GitHub](https://github.com/alizeeeupherte/RPBW/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The RPBW agency was chosen to realize the new ENSA Cachan school of 688890 square feet in Paris Saclay.
+Indeed, the building project is composed of four architectural units which border a park.
+The garden acts as the vibrant center of the different surrounding buildings.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![](image_projet_RPBW_1.png?raw=true)
+![](image_projet_RPBW_2.png?raw=true)
+![](image_projet_RPBW_3.png?raw=true)
 
-```markdown
-Syntax highlighted code block
+Digital images of the project.
+ 
+ 
+ 
 
-# Header 1
-## Header 2
-### Header 3
+The images come from Renzo Piano website.
+For reasons of confidentiality, I can not show my images taken on the site during visits. However the publication of a book is in the making, which will considerably improve this page.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### The different roles that I think represent the architect:
+- Port the intentions:
+The architect defends the quality of the building site and wishes to keep the positions the guidelines adopted during the competition. He must step back and at the same time manage the details.
+- The last word: 
+He is the one who makes the link between the actors and all trades. Delicate position when the actors make mistakes, he must decide. The architect and the role of authority.
+- Be responsible: 
+He wants the schedule to be respected, followed the construction site. He managed also the financial aspect. Here is a public project and so the image of RPBW is under his responsibility.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![](image_chantier.png?raw=true)
 
-### Jekyll Themes
+Photography on the construction site.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alizeeeupherte/RPBW/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The opportunity to follow this project during a full school year allowed me to better understand the different stages of a project's achievements.
+In my opinion, the time line remains the most important point to manage. So "Tractations" play a vital role. They concern all the decision regarding  problems or solutions on site (this goes from the execution drawings discussed between actors, the problems of responsibility in case of collapse on site ...
+
+
+
+
+![](croquis.png?raw=true)
+The project here is mostly concrete.

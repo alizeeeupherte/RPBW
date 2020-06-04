@@ -17,7 +17,7 @@ _Digital images of the project_
  
 
 The images come from Renzo Piano website.
-For reasons of confidentiality, I can not show my images taken on the site during visits. However the publication of a book is in the making, which will considerably improve this page.
+For reasons of confidentiality, I can not show my images taken on the site during visits. 
 
 
 
